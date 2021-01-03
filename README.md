@@ -1,17 +1,23 @@
-# youtube-test
+# Projects
+## YouTube-UI
+![](YouTube-UI/git-img/index-conf.jpg)
 
-## Project
-![](git-img/index.jpg)
+## Vuex
+![](Vuex/vuex-trying.gif)
 
-![](git-img/index-nav.jpg)
-
-![](git-img/index-conf.jpg)
-
-## Project setup
+## Projects setup
+### for YouTube-UI
 ```
 - npm install
 - npm install -g @vue/cli
 - vue add vuetify
+```
+
+### for Vuex
+```
+- npm install
+- npm install -g @vue/cli
+- npm install vuex --save
 ```
 
 ### Compiles and hot-reloads for development
