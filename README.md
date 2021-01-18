@@ -5,6 +5,8 @@
 ## Vuex
 ![](Vuex/vuex-trying.gif)
 
+## Vuex Login
+
 ## Projects setup
 ### for YouTube-UI
 ```
@@ -14,6 +16,13 @@
 ```
 
 ### for Vuex
+```
+- npm install
+- npm install -g @vue/cli
+- npm install vuex --save
+```
+
+### for Vuex Login
 ```
 - npm install
 - npm install -g @vue/cli
